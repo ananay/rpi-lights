@@ -1,0 +1,27 @@
+{
+  "name": "rpi-lights",
+  "version": "1.0.0",
+  "description": "Music Visualizer using Raspberry Pi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananay/rpi-lights.git"
+  },
+  "keywords": [
+    "rpi",
+    "raspberry",
+    "pi",
+    "lights",
+    "visualizer",
+    "music"
+  ],
+  "author": "Ananay Arora <i@ananayarora.com> (https://ananayarora.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananay/rpi-lights/issues"
+  },
+  "homepage": "https://github.com/ananay/rpi-lights#readme"
+}
